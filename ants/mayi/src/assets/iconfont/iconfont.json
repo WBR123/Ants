@@ -1,0 +1,177 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "842973",
+      "name": "股票",
+      "font_class": "gupiao",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "1166885",
+      "name": "账单",
+      "font_class": "zhangdan",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "2211331",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "2297385",
+      "name": "金元宝 财富 宝藏 黄金",
+      "font_class": "jinyuanbaocaifubaocanghuangjin",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "2798806",
+      "name": "理财",
+      "font_class": "licai",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "2947554",
+      "name": "黄金",
+      "font_class": "huangjin",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "4418969",
+      "name": "专栏",
+      "font_class": "huabanfuben",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "4548369",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "5054524",
+      "name": "自选",
+      "font_class": "zixuan",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "5495460",
+      "name": "我的卷包",
+      "font_class": "wodejuanbao",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "6432487",
+      "name": "财富",
+      "font_class": "caifu",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "6486535",
+      "name": "发现",
+      "font_class": "faxian1",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    },
+    {
+      "icon_id": "6710285",
+      "name": "银行卡",
+      "font_class": "yinhangqia",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "8705676",
+      "name": "设 置",
+      "font_class": "shezhi-copy",
+      "unicode": "e50f",
+      "unicode_decimal": 58639
+    },
+    {
+      "icon_id": "8814121",
+      "name": "资产",
+      "font_class": "zichan",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "8973363",
+      "name": "保险",
+      "font_class": "baoxian",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "9050926",
+      "name": "社区 选中",
+      "font_class": "shequxuanzhong",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "9080504",
+      "name": "铃铛",
+      "font_class": "lingdang",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "9952708",
+      "name": "余额宝",
+      "font_class": "yuebao",
+      "unicode": "e507",
+      "unicode_decimal": 58631
+    },
+    {
+      "icon_id": "11107985",
+      "name": "礼包",
+      "font_class": "libao",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "11219488",
+      "name": "基金",
+      "font_class": "jijin",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "12017577",
+      "name": "借呗-借钱",
+      "font_class": "jiebei-jieqian",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "12348732",
+      "name": "看点",
+      "font_class": "kandian",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "14449422",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e510",
+      "unicode_decimal": 58640
+    }
+  ]
+}
